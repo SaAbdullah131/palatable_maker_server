@@ -1,7 +1,7 @@
 [
     {
         "_id": 1,
-        "chef_picture": "https://img.freepik.com/free-photo/japanese-woman-posing-restaurant_23-2149319388.jpg?w=360&t=st=1683061916~exp=1683062516~hmac=8d7b00c5408770a2fff04dcb32823b0279cafd79c418d90f8a2b6a06c9bc611f",
+        "chef_picture": "https://cdn.pixabay.com/photo/2021/02/08/07/39/chef-5993951_960_720.jpg",
         "chef_name": "Li Ming",
         "bio": "Li Ming is a Chinese chef with over 15 years of experience in the culinary industry. He specializes in Sichuan cuisine and is known for his spicy and flavorful dishes.",
         "years_of_experience": 15,
@@ -52,7 +52,7 @@
     },
     {
         "_id": 2,
-        "chef_picture": "https://img.freepik.com/free-photo/portrait-young-male-baker-with-his-arms-crossed-looking-camera_23-2148189025.jpg?w=360&t=st=1683062460~exp=1683063060~hmac=130d5607fe467f6c3b97b1cba2b8bbd3e037aa432ba86731bf24a3e5cc3800a8",
+        "chef_picture": "https://cdn.pixabay.com/photo/2015/09/14/11/43/restaurant-939437_960_720.jpg",
         "chef_name": "Zhang Wei",
         "bio": "Zhang Wei is a renowned Chinese chef with over 20 years of experience in various regional cuisines including Cantonese, Hunan, and Sichuan. He is known for his innovative and creative approach to traditional Chinese dishes.",
         "years_of_experience": 20,
@@ -116,7 +116,7 @@
     },
     {
         "_id": 3,
-        "chef_picture": "https://img.freepik.com/free-photo/asian-handsome-man-cooking-home_1157-47507.jpg?w=360&t=st=1683062525~exp=1683063125~hmac=144994b47688262c1d40720cac94f4528d78407a644585b145c3a084ebe2fd25",
+        "chef_picture": "https://cdn.pixabay.com/photo/2013/02/13/22/43/kitchen-81493_960_720.jpg",
         "chef_name": "Li Ching",
         "bio": "Li Ching is a renowned chef with over 30 years of experience in Sichuan cuisine. He is known for his spicy and flavorful dishes that reflect his roots in Chengdu.",
         "years_of_experience": 30,
@@ -203,7 +203,7 @@
     },
     {
         "_id": 4,
-        "chef_picture": "https://img.freepik.com/free-photo/person-cooking-japanese-food_23-2149366815.jpg?w=360&t=st=1683062066~exp=1683062666~hmac=733d123cf26caf233bc3d3092c3ec9795afcb4423e47b7d95f5a2c6d0e1f0e75",
+        "chef_picture": "https://cdn.pixabay.com/photo/2016/11/22/19/33/asian-cuisine-1850233_960_720.jpg",
         "chef_name": "Ko Jung",
         "bio": "Ko Jung is a renowned chef with over 30 years of experience in Sichuan cuisine. He is known for his spicy and flavorful dishes that reflect his roots in Chengdu.",
         "years_of_experience": 30,
