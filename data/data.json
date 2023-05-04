@@ -2,7 +2,7 @@
     {
         "_id": 1,
         "chef_picture": "https://cdn.pixabay.com/photo/2021/02/08/07/39/chef-5993951_960_720.jpg",
-        "chef_name": "Li Ming",
+        "chef_name": "Yukihiro Fukuda",
         "bio": "Li Ming is a Chinese chef with over 15 years of experience in the culinary industry. He specializes in Sichuan cuisine and is known for his spicy and flavorful dishes.",
         "years_of_experience": 15,
         "num_recipes": 3,
@@ -53,7 +53,7 @@
     {
         "_id": 2,
         "chef_picture": "https://cdn.pixabay.com/photo/2015/09/14/11/43/restaurant-939437_960_720.jpg",
-        "chef_name": "Zhang Wei",
+        "chef_name": "Hironori Ikeno",
         "bio": "Zhang Wei is a renowned Chinese chef with over 20 years of experience in various regional cuisines including Cantonese, Hunan, and Sichuan. He is known for his innovative and creative approach to traditional Chinese dishes.",
         "years_of_experience": 20,
         "num_recipes": 4,
@@ -117,7 +117,7 @@
     {
         "_id": 3,
         "chef_picture": "https://cdn.pixabay.com/photo/2013/02/13/22/43/kitchen-81493_960_720.jpg",
-        "chef_name": "Li Ching",
+        "chef_name": "Yoshihiro Murata",
         "bio": "Li Ching is a renowned chef with over 30 years of experience in Sichuan cuisine. He is known for his spicy and flavorful dishes that reflect his roots in Chengdu.",
         "years_of_experience": 30,
         "num_recipes": 5,
@@ -306,7 +306,7 @@
     {
         "_id": 5,
         "chef_picture": "https://img.freepik.com/premium-photo/portrait-asian-smiling-chef_8595-21378.jpg?w=360",
-        "chef_name": "Li Ming",
+        "chef_name": "Lien Ping",
         "bio": "Li Ming is a Chinese chef with over 15 years of experience in the culinary industry. He specializes in Sichuan cuisine and is known for his spicy and flavorful dishes.",
         "years_of_experience": 15,
         "num_recipes": 4,
