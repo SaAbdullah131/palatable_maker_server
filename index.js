@@ -16,8 +16,13 @@ app.get('/chefs', (req, res)=>{
     res.send(chefs);
 })
 
-// 
+//specific chefs
+app.get('/chefs/:id',(req,res)=> {
+    const id = req.params.id;
+    const chefSelected = chefs.find(c=>c._id==id);
+    res.send(chefSelected);
 
+})
 // app listen port number 5000
 app.listen(port,()=> {
     console.log(`check-recipe-server api is running ${port}`);
