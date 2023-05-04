@@ -19,7 +19,7 @@ app.get('/chefs', (req, res)=>{
 //specific chefs
 app.get('/chefs/:id',(req,res)=> {
     const id = req.params.id;
-    const chefSelected = chefs.find(c=>c._id==id);
+    const chefSelected = chefs.find(chef=>chef._id==id);
     res.send(chefSelected);
 
 })
